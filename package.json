@@ -1,0 +1,15 @@
+{
+  "name": "cyoa",
+  "version": "1.0.0",
+  "description": "Choose your own adventure",
+  "main": "cyoa.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "readline-sync": "^1.4.9"
+  }
+}
